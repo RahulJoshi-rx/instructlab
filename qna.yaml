@@ -1,0 +1,65 @@
+created_by: rahul
+version: 2
+task_description: Echoes of the Void
+domain: sci_fi
+seed_examples:
+ - question: What is the central setting of Echoes of the Void?
+   answer: The central setting of Echoes of the Void is the research station "Odyssey,"
+    which orbits a distant star in the Andromeda Galaxy. The story also takes the crew
+    into a black hole, known as "The Abyss," leading them to an otherworldly pocket dimension.
+
+ - question: What discovery prompts the crew of the "Odyssey" to enter the black hole?
+   answer: The discovery of a complex, structured signal pattern embedded in the cosmic radiation
+    from the black hole prompts the crew of the "Odyssey" to investigate. The signal is identified
+    as a coherent message that appears to be artificial.
+
+ - question: Who is the main character of the story and what is her role?
+   answer: Dr. Elara Monroe is the main character of the story. She is a leading astrophysicist
+    who deciphers the enigmatic signal and leads the mission into the black hole to uncover its
+    source and significance.
+
+ - question: What is the significance of the ancient structure found inside the black hole?
+   answer: The ancient structure found inside the black hole is a massive sphere containing advanced
+    technology and a holographic recording of the Xalarians, an ancient civilization. The technology
+    is revealed to have been used to communicate across universes but inadvertently summoned a malevolent
+    entity known as the Void.
+
+ - question: What is the Void, and how does it affect the crew?
+   answer: The Void is a malevolent entity that feeds on the energy of entire galaxies.
+    It manipulates the pocket dimension, warping reality and creating terrifying illusions
+    that exploit the crew’s deepest fears and darkest memories.
+
+ - question: How do the crew members attempt to escape from the pocket dimension?
+   answer: The crew attempts to escape by deactivating the Void’s power source, which is located
+    at the heart of the ancient sphere. They must navigate through shifting corridors and confront
+    their inner demons to reach and disable the power source.
+
+ - question: What is the pivotal moment that leads to Elara’s sacrifice?
+   answer: The pivotal moment occurs when the crew discovers that activating the Void’s containment
+    field requires a sacrifice. Elara, realizing the importance of her role and the need to ensure the
+    field’s activation, decides to stay behind to complete the task, knowing it will save her crewmates
+    and countless others.
+
+ - question: What is the outcome of the final confrontation with the Void?
+   answer: The final confrontation with the Void involves trapping it in a containment field using
+    the ancient technology. Elara’s sacrifice ensures that the field activates correctly, containing
+    the Void and preventing it from consuming more galaxies.
+
+ - question: How does the story reflect on humanity's spirit of exploration?
+   answer: The story reflects humanity's spirit of exploration through the crew’s courage and
+    determination in the face of unknown dangers. Elara's self-sacrifice highlights the theme of
+    bravery and the pursuit of knowledge, emphasizing that the quest to understand the universe
+    involves both discovery and sacrifice.on key, allowing them to reactivate the satellites and
+    contact other intelligent humans worldwide.
+
+ - question: What is the epilogue’s message about the future of humanity?
+   answer: The epilogue suggests that while humanity has faced great peril and made significant
+    sacrifices, the universe still holds many mysteries and opportunities for exploration. It
+    underscores that the echoes of past adventures and the courage of explorers will continue to
+    inspire future generations as they embark on new journeys into the unknown.
+
+document:
+ repo: https://github.com/RahulJoshi-rx/Apes.git
+ commit: e71b8e008fc5b9b8682fb3991de178a91212b28e
+ patterns:
+  - wikidata.md
